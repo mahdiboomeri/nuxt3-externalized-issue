@@ -7,9 +7,9 @@
     "preview": "nuxt preview"
   },
   "devDependencies": {
-    "@nuxt/image-edge": "1.0.0-27719579.87dcdf2",
+    "@nuxt/image-edge": "1.0.0-27809804.194d2d6",
     "@types/jsonwebtoken": "^8.5.9",
     "jsonwebtoken": "^8.5.1",
-    "nuxt": "3.0.0-rc.11"
+    "nuxt": "^3.0.0"
   }
 }
